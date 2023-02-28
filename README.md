@@ -5,9 +5,9 @@
 TL;DR?
 → 50% of me is Perseverance🦉 and the other half is Versatility🦚
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
- I am a full-stack web developer🧑‍💻 and digital craftsman🪄, I am passionate about building my version of the digital world one step at a time. I love it so much that I made a career out of it. With a background in Mechanical Engineering and a keen interest in software, I have honed my skills in Angular and Node.js. My ability to work with various software and tools has taught me to work with the greatest efficiency in any task I am assigned.
+ I am a full-stack web developer🧑‍💻 and digital craftsman🪄, I am passionate about building my version of the digital world one step at a time. I love it so much that I made a career out of it. With a background in Mechanical Engineering and a keen interest in software, I have honed my skills in Rust and  Angular. I love exploring so thats where the XploR5 (pronounces Explores) comes in so BeRohan XploR5🚀
 
 
 ### 🧰 Languages and Tools
